@@ -1,7 +1,5 @@
 # AURA-Assistant
 
-# AURA-Assistant
-
 **AURA-Assistant** is a simple Python-based chatbot / assistant project. It uses a trained model (together with intent definitions) to respond to user inputs. The project includes a GUI (and optionally a web front-end) for interacting with the assistant.  
 
 > ⚠️ **Note:** This is a lightweight / early-stage project. The repository does not have extensive documentation or wide usage yet.  
