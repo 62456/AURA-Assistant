@@ -10,7 +10,7 @@
 
 The repository currently contains:
 
-- `app.py`, `main.py`, `gui.py` — core Python scripts for running the assistant / GUI / main logic.  
+- `app.py`, `main.py` — core Python scripts for running the assistant / GUI / main logic.  
 - `model_train.py`, `model_test.py` — scripts for training and testing the underlying model.  
 - `intents.json` — intent definitions / patterns & responses for the assistant.  
 - `tokenizer.pkl`, `label_encoder.pkl`, `chat_model.h5` — trained model artifacts / serialized tokenizer & label encoder.  
